@@ -38,7 +38,7 @@ Geliştirici : Eren Söğütlü
 
 Kurulum :
 
-    > git clone https://github.com/erensogutlu/time2learn.git
+    > git clone https://github.com/erensogutlu/Time2Learn.git
 
     > cd time2learn
 
@@ -95,7 +95,7 @@ Developer: Eren Söğütlü
 
 Installation:
 
-   > git clone https://github.com/erensogutlu/time2learn.git
+   > git clone https://github.com/erensogutlu/Time2Learn.git
 
    > cd time2learn
 
